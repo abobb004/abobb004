@@ -9,6 +9,12 @@ I'm interested in the hardware of computers, their networking capabilities, and 
 ## Projects
 [Task-Scheduler-CLI](https://github.com/abobb004/Task-Scheduler-CLI)  
 * A task scheduler based on SOLID principles, reliability, and making sure that the user can get their tasks done by the end of the week.
+* Includes save and load, user input validations, prioritized tasks, and a formatted CLI output ensuring better readability.
+
+[Sensor-Telemetry-Pipeline](https://github.com/abobb004/Sensor-Telemetry-Pipeline.git)
+* The Sensor Telemetry Pipeline implements a lightweight, custom packet protocol for transmitting temperature telemetry from a DHT11 sensor interfaced with an Arduino to an ESP32.
+* Implements 5V-to-3.3V logic-level conversion using a resistor-based voltage divider.
+* The custom packet format efficiently transports the sensor telemetry while providing data-integrity verification through a checksum.
   
 [RFitnessPal](https://github.com/TeleVision05/RFitnessPal)
 * RFitnessPal takes nutrition data from campus menus to allow a user to enter the food they ate quickly and track their caloric goals.
