@@ -1,5 +1,12 @@
-## Hi there 👋
+# About me:
+My name is Ashish Bobbala. I'm a third-year Computer Engineering student at the University of California, Riverside. 
 
+I'm interested in the hardware of computers, their networking capabilities, and building practical solutions through software and hardware.
+
+## How to reach me:
+[Linkedin](www.linkedin.com/in/ashish-bobbala)
+
+## Projects
 <!--
 **abobb004/abobb004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
