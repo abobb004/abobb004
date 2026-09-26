@@ -7,7 +7,7 @@ I'm interested in the hardware of computers, their networking capabilities, and 
 [Linkedin](www.linkedin.com/in/ashish-bobbala)
 
 ## Projects
-[Task-Scheduler-CLI](https://github.com/abobb004/Task-Scheduler-CLI)
+[Task-Scheduler-CLI](https://github.com/abobb004/Task-Scheduler-CLI)  
 [RFitnessPal](https://github.com/TeleVision05/RFitnessPal)
 <!--
 **abobb004/abobb004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
